@@ -2,7 +2,7 @@
 
 This web application was developed with the aim of putting resources online for members of an association. It allows users to access the digital resources made available to them online.
 
-## Facility
+## Install
 
 1. Clone the repository to your local machine.
 2. Make sure you have an web development platform installed on your system like Laragon or Wamp.
