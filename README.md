@@ -11,9 +11,9 @@ This web application was developed with the aim of putting resources online for 
 
 ## Use
 
-1. Run the `app.py` file using the following command: `python app.py`.
-2. The application launches in a new window.
-3. You can navigate through the different features of the app using your web browser.
+1. start your apache server and mysql.
+2. Open your browser and and if it's local, use http://localhost/padlet/.
+
 
 ## Core Features
 
