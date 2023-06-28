@@ -1,13 +1,13 @@
 # Padlet
 
-This web application was developed with the aim of putting resources online for members of an association. It allows users to access the digital resources made available to them online, in addition to face-to-face sessions.
+This web application was developed with the aim of putting resources online for members of an association. It allows users to access the digital resources made available to them online.
 
 ## Facility
 
 1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Make sure you have Python installed on your system.
-4. Install tkinter if it is not included with your version of Python by running the following command: `pip install tkinter`.
+2. Make sure you have an web development platform installed on your system like Laragon or Wamp.
+3. Create an sql database and create the tables and insert the data from the export.sql file.
+
 
 ## Use
 
