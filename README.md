@@ -2,7 +2,7 @@
 
 This web application was developed with the aim of putting resources online for members of an association. It allows users to access the digital resources made available to them online.
 
-![Padlet use]([space_invaders_gameplay.gif](https://drive.google.com/file/d/1FsaI9b6KVZzU35VYpotWEfo1q3jJG6BX/view?usp=drive_link))
+![Padlet use]([space_invaders_gameplay.gif](https://imgur.com/Hq7yKT5))
 
 ## Install
 
