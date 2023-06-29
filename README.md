@@ -2,7 +2,7 @@
 
 This web application was developed with the aim of putting resources online for members of an association. It allows users to access the digital resources made available to them online.
 
-![Padlet use]([padlet_use.gif](https://imgur.com/Hq7yKT5))
+![Padlet use](https://imgur.com/Hq7yKT5)
 
 ## Install
 
