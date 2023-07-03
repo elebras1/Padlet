@@ -34,7 +34,7 @@ This web application was developed with the aim of putting resources online for 
   
 ## Licence
 
-Ce projet est sous licence ![Licence MIT](https://img.shields.io/badge/Licence-MIT-blue.svg).
+This project is licensed ![Licence MIT](https://img.shields.io/badge/Licence-MIT-blue.svg).
 
-Pour plus de détails, veuillez consulter le fichier [LICENSE](licence.md).
+For more details, please see the file [LICENSE](licence.md).
 
