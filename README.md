@@ -31,3 +31,10 @@ This web application was developed with the aim of putting resources online for 
 - There are two types of users with an account: association managers ('R') and facilitators ('A').
 - Information can be viewed via computer, mobile phone or tablet.
 - Users with an account can access role-specific information and activity data.
+  
+## Licence
+
+Ce projet est sous licence ![Licence MIT](https://img.shields.io/badge/Licence-MIT-blue.svg).
+
+Pour plus de détails, veuillez consulter le fichier [LICENSE](licence.md).
+
