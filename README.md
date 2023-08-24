@@ -1,3 +1,8 @@
+[![Langage](https://img.shields.io/badge/Langage-PHP-gray.svg)](https://www.php.net/)
+[![DataBase](https://img.shields.io/badge/DataBase-SQL-blue.svg)](https://www.sql.org/)
+[![Langage](https://img.shields.io/badge/langage-HTML-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Libraries](https://img.shields.io/badge/library-Bootstrap-blueviolet.svg)](https://getbootstrap.com/)
+
 # Padlet
 
 This web application was developed with the aim of putting resources online for members of an association. It allows users to access the digital resources made available to them online.
